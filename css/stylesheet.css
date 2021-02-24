@@ -1,3 +1,16 @@
 body{
     background-color: #f2e9e4;
+    font-family: Montserrat, sans-serif;
+}
+
+h1{
+    font-family: "Indie Flower", sans-serif;
+}
+
+nav{
+    background-color: #9a8c98;
+}
+
+article{
+    background-color: #c9ada7;
 }
