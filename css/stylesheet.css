@@ -9,8 +9,27 @@ h1{
 
 nav{
     background-color: #9a8c98;
+    position: sticky;
+    top: 0px; left: 0px; right: 0px;
+    border: 0;
+    text-align: center;
 }
 
 article{
     background-color: #c9ada7;
 }
+
+ul.navbar{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.navbar > li{
+    display: inline;
+}
+
+h3 + ul{
+    color: teal ;
+}
+
