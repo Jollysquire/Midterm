@@ -19,6 +19,10 @@ article{
     background-color: #c9ada7;
 }
 
+h2{
+    text-align: center;
+}
+
 ul.navbar{
     list-style: none;
     margin: 0;
@@ -32,4 +36,25 @@ ul.navbar > li{
 h3 + ul{
     color: teal ;
 }
+
+.pancake{
+    text-align: right;
+}
+
+.restaurant{
+    text-align: center;
+}
+
+ul a:link{
+    color: rgb(53, 8, 0);
+}
+
+ul a:visited{
+    color: silver;
+}
+
+ul a:hover{
+    color: rgb(0, 0, 80);
+}
+
 
